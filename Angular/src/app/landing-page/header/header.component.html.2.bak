@@ -1,0 +1,7 @@
+<div class="container-fluid">
+    <div class="row align-bottom">
+        <div class="col-12">
+            <halaf-tabs></halaf-tabs>
+        </div>
+    </div>
+</div>

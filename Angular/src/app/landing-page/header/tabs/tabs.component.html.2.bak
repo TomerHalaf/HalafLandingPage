@@ -1,0 +1,17 @@
+<div class="container-fluid p-0">
+    <div class="row" id="buttons">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-2 col-3 p-1">
+            <button class="header-button ml-1">שירותים</button>
+        </div>
+        <div class="col-lg-2 col-3 p-1">
+            <button class="header-button ml-1">אודות</button>
+        </div>
+        <div class="col-lg-2 col-3 p-1">
+            <button class="header-button ml-1">צור קשר</button>
+        </div>
+        <div class="col-lg-2 col-3 p-1">
+            <button class="header-button ml-1">טפסים</button>
+        </div>
+    </div>
+</div>

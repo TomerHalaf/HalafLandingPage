@@ -1,0 +1,9 @@
+img{
+    width: 7vw;
+}
+
+@media only screen and (max-width: 600px) {
+    img{
+        width: 14vw;
+    }
+}

@@ -1,0 +1,19 @@
+.nav-item:hover, nav-item:active {
+    background-image: linear-gradient(to bottom right, darkgray, gray,darkgray);
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    color: darkslategray;
+    font-size: 2vw;
+    height: 100%;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}

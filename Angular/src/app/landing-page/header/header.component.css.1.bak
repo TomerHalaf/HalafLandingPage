@@ -1,0 +1,50 @@
+.container-fluid {
+    width: 100%;
+    border-bottom-width: 0.5vw;
+    border-bottom-style: solid;
+    border-image: linear-gradient(to bottom right, darkgray, gray,darkgray);
+    border-image-slice: 1;
+}
+
+.header-title{
+    font-size: 4vw;
+    background-image: linear-gradient(to bottom right, darkgray, gray,darkgray);
+    color: transparent;
+    background-clip: text;
+    line-height: 100%;
+}
+
+.header-main{
+    font-size: 1.5vw;
+    background-image: linear-gradient(to bottom right, black, gray,black);
+    color: transparent;
+    background-clip: text;
+}
+
+.header-phone{
+    font-size: 2.5vw;
+    background-image: linear-gradient(to bottom right, darkgray, gray,darkgray);
+    color: transparent;
+    background-clip: text;
+    line-height: 5vw;
+}
+
+.header-title:first-letter {
+    font-size : 125%;
+    background-image: linear-gradient(to bottom right, #D4AF37, #F0E68C, #D4AF37);
+    color: transparent;
+    background-clip: text;
+}
+
+.right {
+    float: right;
+}
+
+.rtl{
+    direction: rtl;
+    text-align: right;
+}
+
+.left {
+    float: left;
+}

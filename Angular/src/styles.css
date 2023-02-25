@@ -1,0 +1,8 @@
+html, div {
+    direction: rtl;
+    text-align: right;
+}
+
+.rtl {
+    direction: rtl;
+}
